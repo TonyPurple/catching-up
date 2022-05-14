@@ -1,4 +1,4 @@
-# catching-up
+# catching-up challenge
 
 * When people code together on Replit, everyone's code needs to be in sync. You have to see the same code as I do even though we're typing on different computers. The challenge is making sure we don't end up with a jumbled mess of text while we type together.
 
